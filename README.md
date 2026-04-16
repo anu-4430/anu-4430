@@ -1,16 +1,49 @@
-## Hi there 👋
+## About Me
 
-<!--
-**anu-4430/anu-4430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋  
 
-Here are some ideas to get you started:
+Nice meeting you, I'm Anushree!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working as a DevOps Engineer passionate about building scalable, automated, and reliable systems  
+
+🌱 I’m currently working on designing and deploying cloud infrastructure on AWS and building end-to-end CI/CD pipelines  
+
+💬 Ask me about DevOps, AWS, Docker, Kubernetes, CI/CD, and MERN stack  
+
+🤝 I’m open to collaborating on DevOps and cloud-native projects  
+
+📫 **How to reach me:**  
+- LinkedIn: https://www.linkedin.com/in/anuwadnerkar  
+- Email: anu.wadnerkar@gmail.com  
+
+😄 Pronouns: She/Her  
+
+⚡ Fun fact: I started as a MERN Stack Developer and moved into DevOps 🚀  ---
+
+## Tech Stack
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-lightgrey?style=flat&logo=amazonaws&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat&logo=googlecloud&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-lightgrey?style=flat&logo=microsoftazure&logoColor=black)
+
+### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-lightgrey?style=flat&logo=docker&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-lightgrey?style=flat&logo=kubernetes&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=jenkins&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-lightgrey?style=flat&logo=githubactions&logoColor=black)
+![Argo CD](https://img.shields.io/badge/ArgoCD-lightgrey?style=flat&logo=argo&logoColor=black)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-lightgrey?style=flat&logo=terraform&logoColor=black)
+
+### 💻 Development
+![React](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-lightgrey?style=flat&logo=nodedotjs&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=flat&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=mongodb&logoColor=black)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-lightgrey?style=flat&logo=git&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-lightgrey?style=flat&logo=postman&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-lightgrey?style=flat&logo=linux&logoColor=black)

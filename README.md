@@ -19,7 +19,6 @@ Nice meeting you, I'm Anushree!
 😄 Pronouns: She/Her  
 
 ⚡ Fun fact: I started as a MERN Stack Developer and moved into DevOps 🚀  
----
 
 ## Tech Stack
 

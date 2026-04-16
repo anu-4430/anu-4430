@@ -12,7 +12,7 @@ Nice meeting you, I'm Anushree!
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I started as a MERN Stack Developer and moved into DevOps 🚀  
 
-### Tech Stack
+### 💻Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-lightgrey?style=flat&logo=amazonaws&logoColor=black) ![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat&logo=googlecloud&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-lightgrey?style=flat&logo=microsoftazure&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-lightgrey?style=flat&logo=docker&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes-lightgrey?style=flat&logo=kubernetes&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=jenkins&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-lightgrey?style=flat&logo=githubactions&logoColor=black) ![ArgoCD](https://img.shields.io/badge/ArgoCD-lightgrey?style=flat&logo=argo&logoColor=black)
 
